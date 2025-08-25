@@ -2,8 +2,9 @@ Package: SITurkishFish
 Title: Stable Isotope Niche Analysis of Turkish Fish Populations 
 Version: 1.0.0
 Authors@R: 
-    person("Nadège", "Belouard", , "nadege.belouard@gmail.com", role = c("aut"),
-           comment = c(ORCID = "0000-0002-7968-7735")
+    person("Nadège", "Belouard", , "nadege.belouard@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7968-7735"))
+Description: SITurkishFish analyses stable isotope data of fish populations to identify the effect of non-native fish species on their trophic ecology.
 License: use_mit_license()
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
