@@ -3,7 +3,7 @@ pkgdown: 2.1.3
 pkgdown_sha: ~
 articles:
   Data_standardization: Data_standardization.html
-last_built: 2025-08-25T15:03Z
+last_built: 2025-08-25T15:09Z
 urls:
   reference: https://nbelouard.github.io/SITurkishFish/reference
   article: https://nbelouard.github.io/SITurkishFish/articles
